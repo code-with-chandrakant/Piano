@@ -1,14 +1,12 @@
-
-
-.first_div{
-background-image: url(image/piano_bacground_img.webp);
+.first_div {
+    background-image: url(image/piano_bacground_img.webp);
     /* background-color: rgb(255, 0, 4); */
     text-align: center;
     background-repeat: no-repeat;
-   background-position:center;
+    background-position: center;
     padding: 300px;
 }
 
-.key{
+.key {
     padding: 20px;
 }
